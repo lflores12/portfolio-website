@@ -74,6 +74,10 @@ input, select, textarea {
 
 /* Basic */
 
+	.display-none {
+		display: none;
+	}
+
 	@-ms-viewport {
 		width: device-width;
 	}
